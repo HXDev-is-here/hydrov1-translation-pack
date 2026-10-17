@@ -1,166 +1,166 @@
 {
-  "updated": "2026-10-17T21:32:32.037Z",
+  "updated": "2026-10-17T21:55:55.540Z",
   "languages": [
     {
       "code": "cs",
       "name": "Czech",
       "native": "Čeština",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "da",
       "name": "Danish",
       "native": "Dansk",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "de",
       "name": "German",
       "native": "Deutsch",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "en",
       "name": "English",
       "native": "English",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "es",
       "name": "Spanish",
       "native": "Español",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "fr",
       "name": "French",
       "native": "Français",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "hi-EN",
       "name": "Hindi (Latin script)",
       "native": "Hindi (Latin script)",
-      "strings": 261,
-      "total": 265
+      "strings": 311,
+      "total": 315
     },
     {
       "code": "hi",
       "name": "Hindi",
       "native": "हिन्दी",
-      "strings": 261,
-      "total": 265
+      "strings": 311,
+      "total": 315
     },
     {
       "code": "id",
       "name": "Indonesian",
       "native": "Bahasa Indonesia",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "it",
       "name": "Italian",
       "native": "Italiano",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "ja",
       "name": "Japanese",
       "native": "日本語",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "ko",
       "name": "Korean",
       "native": "한국어",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "lt",
       "name": "Lithuanian",
       "native": "Lietuvių",
-      "strings": 260,
-      "total": 265
+      "strings": 310,
+      "total": 315
     },
     {
       "code": "nl",
       "name": "Dutch",
       "native": "Nederlands",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "pa",
       "name": "Punjabi",
       "native": "ਪੰਜਾਬੀ",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "pt-BR",
       "name": "Portuguese (Brazil)",
       "native": "Português (Brasil)",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "pt",
       "name": "Portuguese",
       "native": "Português",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "ro",
       "name": "Romanian",
       "native": "Română",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "ru",
       "name": "Russian",
       "native": "Русский",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "sv",
       "name": "Swedish",
       "native": "Svenska",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "tr",
       "name": "Turkish",
       "native": "Türkçe",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "uk",
       "name": "Ukrainian",
       "native": "Українська",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     },
     {
       "code": "ur",
       "name": "Urdu",
       "native": "اردو",
-      "strings": 265,
-      "total": 265
+      "strings": 315,
+      "total": 315
     }
   ]
 }
